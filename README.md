@@ -27,6 +27,9 @@
 
 ## Usage
 
+- [查看注释的SGI STL配置器源码](https://github.com/YuzeZhang/my-mem-pool/tree/master/annotated_STL_allocator)
+- [查看SGI STL配置器源码剖析](https://github.com/YuzeZhang/my-mem-pool/tree/master/annotated_STL_allocator)
+
 ## License
 
 [MIT © YuzeZhang.](https://github.com/YuzeZhang/my-mem-pool/blob/master/LICENSE)
